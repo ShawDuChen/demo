@@ -5,3 +5,4 @@ Git tracks changes.
 First Demo
 Creating a new branch!
 Creating a new branch is quick and simple.
+A new day study!
